@@ -1,10 +1,8 @@
-# HT-Boat-Models
-HTX1 Series / HTX2 Series
-# Hydrofoil Telemetry — Custom Boat Expansion Fleet
+# Hydrofoil Telemetry — Custom Boat Fleet
 
 **Custom High-Performance Foiling Boats for Hydrofoil Generation**
 
-Hydrofoil Telemetry has developed a fleet of 10 custom and upgraded boat models for *Hydrofoil Generation*, expanding the game's original lineup with new designs, advanced foiling configurations, and enhanced sailing performance.
+Hydrofoil Telemetry has developed a fleet of 11 custom and upgraded boat models for *Hydrofoil Generation*, expanding the game's original lineup with new designs, advanced foiling configurations, and enhanced sailing performance.
 
 These are not simply modified 3D renderings. Each boat is a complete, game-ready package containing its own model geometry, physics data, skins, rigging, server data, and supporting files.
 
@@ -14,7 +12,7 @@ All models are designed to integrate directly into Hydrofoil Generation's existi
 
 Five custom high-performance foiling boats:
 
-- **HTX1** — A longer, narrower evolution of the JX50 with improved stability, higher pointing ability, deeper downwind angles, and faster maneuvers.
+- **HTX1** — A longer, narrower evolution of the JX40 with improved stability, higher pointing ability, deeper downwind angles, and faster maneuvers.
 - **HTXE** — A compact twin-hull foiler featuring deck-level trampolines, narrow beam, and dual wings.
 - **HTXS** — A powerful hybrid-wing offshore racer designed for extreme speeds exceeding 75 knots.
 - **HTXZ** — An extreme offshore maxi foiler built for high-speed open-water racing.
@@ -29,6 +27,12 @@ Five additional custom boat models:
 - **HTXR** — An exceptionally long and narrow 75-foot offshore racer with modified sails, rigging, and a surfing bow, designed for speeds approaching 75–80 knots.
 - **HTXF** — The flagship HT offshore racing machine, featuring a distinctive gooseneck bow, twin wing rigs, and advanced foresail configurations.
 - **HTXY** — An experimental high-performance foiling design expanding the HT X2 racing fleet.
+
+## HT F50T — Performance Edition
+
+An upgraded version of the SailGP-inspired F50 featuring **T-foil configurations** and modified performance characteristics.
+
+The HT F50T is supplied as a separate boat model and does not replace the original F50.
 
 ## Installation
 
@@ -49,6 +53,7 @@ Hydrofoil Generation/
         ├── f50/
         ├── jx40/
         ├── jx50/
+        ├── f50t/
         ├── HTX1/
         ├── HTXE/
         ├── HTXS/
@@ -85,4 +90,6 @@ Visit the official HT website for additional information, project updates, and d
 
 **Website:** https://sites.google.com/view/hydrofoil-telemetry/home
 
-*Hydrofoil Telemetry is an independent community project and is not officially affiliated with the developers of Hydrofoil Generation.*
+**© 2026 Hydrofoil Telemetry. All rights reserved.**
+
+*Hydrofoil Telemetry is an independent community project and is not officially affiliated with the developers of Hydrofoil Generation.*with the developers of Hydrofoil Generation.developers of Hydrofoil Generation.*
