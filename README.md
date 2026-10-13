@@ -14,7 +14,7 @@ All models are designed to integrate directly into Hydrofoil Generation's existi
 
 Five custom high-performance foiling boats:
 
-- **HTX1** — A longer, narrower evolution of the JX40 with improved stability, higher pointing ability, deeper downwind angles, and faster maneuvers.
+- **HTX1** — A longer, narrower evolution of the JX50 with improved stability, higher pointing ability, deeper downwind angles, and faster maneuvers.
 - **HTXE** — A compact twin-hull foiler featuring deck-level trampolines, narrow beam, and dual wings.
 - **HTXS** — A powerful hybrid-wing offshore racer designed for extreme speeds exceeding 75 knots.
 - **HTXZ** — An extreme offshore maxi foiler built for high-speed open-water racing.
