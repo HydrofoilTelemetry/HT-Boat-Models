@@ -1,10 +1,10 @@
 # HT-Boat-Models
 HTX1 Series / HTX2 Series
-# Hydrofoil Telemetry — Custom Boat Fleet
+# Hydrofoil Telemetry — Custom Boat Expansion Fleet
 
 **Custom High-Performance Foiling Boats for Hydrofoil Generation**
 
-Hydrofoil Telemetry (HT) has developed a fleet of 10 custom and upgraded boat models for *Hydrofoil Generation*, expanding the game's original lineup with new designs, advanced foiling configurations, and enhanced sailing performance.
+Hydrofoil Telemetry has developed a fleet of 10 custom and upgraded boat models for *Hydrofoil Generation*, expanding the game's original lineup with new designs, advanced foiling configurations, and enhanced sailing performance.
 
 These are not simply modified 3D renderings. Each boat is a complete, game-ready package containing its own model geometry, physics data, skins, rigging, server data, and supporting files.
 
